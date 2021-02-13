@@ -1,0 +1,9 @@
+D:\vsProjects\SomePractice\SomePractice\obj\Debug\SomePractice.csprojAssemblyReference.cache
+D:\vsProjects\SomePractice\SomePractice\obj\Debug\SomePractice.Properties.Resources.resources
+D:\vsProjects\SomePractice\SomePractice\obj\Debug\SomePractice.csproj.GenerateResource.cache
+D:\vsProjects\SomePractice\SomePractice\obj\Debug\SomePractice.csproj.CoreCompileInputs.cache
+D:\vsProjects\SomePractice\SomePractice\bin\Debug\SomePractice.exe.config
+D:\vsProjects\SomePractice\SomePractice\bin\Debug\SomePractice.exe
+D:\vsProjects\SomePractice\SomePractice\bin\Debug\SomePractice.pdb
+D:\vsProjects\SomePractice\SomePractice\obj\Debug\SomePractice.exe
+D:\vsProjects\SomePractice\SomePractice\obj\Debug\SomePractice.pdb
